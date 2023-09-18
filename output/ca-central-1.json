@@ -1,0 +1,1614 @@
+{
+  "AWS-GR_AUDIT_BUCKET_ENCRYPTION_ENABLED": {
+    "arn": "arn:aws:controltower:ca-central-1::control/AWS-GR_AUDIT_BUCKET_ENCRYPTION_ENABLED",
+    "id": "AWS-GR_AUDIT_BUCKET_ENCRYPTION_ENABLED"
+  },
+  "AWS-GR_AUDIT_BUCKET_LOGGING_ENABLED": {
+    "arn": "arn:aws:controltower:ca-central-1::control/AWS-GR_AUDIT_BUCKET_LOGGING_ENABLED",
+    "id": "AWS-GR_AUDIT_BUCKET_LOGGING_ENABLED"
+  },
+  "AWS-GR_AUDIT_BUCKET_POLICY_CHANGES_PROHIBITED": {
+    "arn": "arn:aws:controltower:ca-central-1::control/AWS-GR_AUDIT_BUCKET_POLICY_CHANGES_PROHIBITED",
+    "id": "AWS-GR_AUDIT_BUCKET_POLICY_CHANGES_PROHIBITED"
+  },
+  "AWS-GR_AUDIT_BUCKET_RETENTION_POLICY": {
+    "arn": "arn:aws:controltower:ca-central-1::control/AWS-GR_AUDIT_BUCKET_RETENTION_POLICY",
+    "id": "AWS-GR_AUDIT_BUCKET_RETENTION_POLICY"
+  },
+  "AWS-GR_AUTOSCALING_LAUNCH_CONFIG_PUBLIC_IP_DISABLED": {
+    "arn": "arn:aws:controltower:ca-central-1::control/AWS-GR_AUTOSCALING_LAUNCH_CONFIG_PUBLIC_IP_DISABLED",
+    "id": "AWS-GR_AUTOSCALING_LAUNCH_CONFIG_PUBLIC_IP_DISABLED"
+  },
+  "AWS-GR_DETECT_CLOUDTRAIL_ENABLED_ON_MEMBER_ACCOUNTS": {
+    "arn": "arn:aws:controltower:ca-central-1::control/AWS-GR_DETECT_CLOUDTRAIL_ENABLED_ON_MEMBER_ACCOUNTS",
+    "id": "AWS-GR_DETECT_CLOUDTRAIL_ENABLED_ON_MEMBER_ACCOUNTS"
+  },
+  "AWS-GR_DISALLOW_CROSS_REGION_NETWORKING": {
+    "arn": "arn:aws:controltower:ca-central-1::control/AWS-GR_DISALLOW_CROSS_REGION_NETWORKING",
+    "id": "AWS-GR_DISALLOW_CROSS_REGION_NETWORKING"
+  },
+  "AWS-GR_DISALLOW_VPC_INTERNET_ACCESS": {
+    "arn": "arn:aws:controltower:ca-central-1::control/AWS-GR_DISALLOW_VPC_INTERNET_ACCESS",
+    "id": "AWS-GR_DISALLOW_VPC_INTERNET_ACCESS"
+  },
+  "AWS-GR_DISALLOW_VPN_CONNECTIONS": {
+    "arn": "arn:aws:controltower:ca-central-1::control/AWS-GR_DISALLOW_VPN_CONNECTIONS",
+    "id": "AWS-GR_DISALLOW_VPN_CONNECTIONS"
+  },
+  "AWS-GR_DMS_REPLICATION_NOT_PUBLIC": {
+    "arn": "arn:aws:controltower:ca-central-1::control/AWS-GR_DMS_REPLICATION_NOT_PUBLIC",
+    "id": "AWS-GR_DMS_REPLICATION_NOT_PUBLIC"
+  },
+  "AWS-GR_EBS_OPTIMIZED_INSTANCE": {
+    "arn": "arn:aws:controltower:ca-central-1::control/AWS-GR_EBS_OPTIMIZED_INSTANCE",
+    "id": "AWS-GR_EBS_OPTIMIZED_INSTANCE"
+  },
+  "AWS-GR_EBS_SNAPSHOT_PUBLIC_RESTORABLE_CHECK": {
+    "arn": "arn:aws:controltower:ca-central-1::control/AWS-GR_EBS_SNAPSHOT_PUBLIC_RESTORABLE_CHECK",
+    "id": "AWS-GR_EBS_SNAPSHOT_PUBLIC_RESTORABLE_CHECK"
+  },
+  "AWS-GR_EC2_INSTANCE_NO_PUBLIC_IP": {
+    "arn": "arn:aws:controltower:ca-central-1::control/AWS-GR_EC2_INSTANCE_NO_PUBLIC_IP",
+    "id": "AWS-GR_EC2_INSTANCE_NO_PUBLIC_IP"
+  },
+  "AWS-GR_EC2_VOLUME_INUSE_CHECK": {
+    "arn": "arn:aws:controltower:ca-central-1::control/AWS-GR_EC2_VOLUME_INUSE_CHECK",
+    "id": "AWS-GR_EC2_VOLUME_INUSE_CHECK"
+  },
+  "AWS-GR_EKS_ENDPOINT_NO_PUBLIC_ACCESS": {
+    "arn": "arn:aws:controltower:ca-central-1::control/AWS-GR_EKS_ENDPOINT_NO_PUBLIC_ACCESS",
+    "id": "AWS-GR_EKS_ENDPOINT_NO_PUBLIC_ACCESS"
+  },
+  "AWS-GR_ELASTICSEARCH_IN_VPC_ONLY": {
+    "arn": "arn:aws:controltower:ca-central-1::control/AWS-GR_ELASTICSEARCH_IN_VPC_ONLY",
+    "id": "AWS-GR_ELASTICSEARCH_IN_VPC_ONLY"
+  },
+  "AWS-GR_EMR_MASTER_NO_PUBLIC_IP": {
+    "arn": "arn:aws:controltower:ca-central-1::control/AWS-GR_EMR_MASTER_NO_PUBLIC_IP",
+    "id": "AWS-GR_EMR_MASTER_NO_PUBLIC_IP"
+  },
+  "AWS-GR_ENCRYPTED_VOLUMES": {
+    "arn": "arn:aws:controltower:ca-central-1::control/AWS-GR_ENCRYPTED_VOLUMES",
+    "id": "AWS-GR_ENCRYPTED_VOLUMES"
+  },
+  "AWS-GR_IAM_USER_MFA_ENABLED": {
+    "arn": "arn:aws:controltower:ca-central-1::control/AWS-GR_IAM_USER_MFA_ENABLED",
+    "id": "AWS-GR_IAM_USER_MFA_ENABLED"
+  },
+  "AWS-GR_LAMBDA_FUNCTION_PUBLIC_ACCESS_PROHIBITED": {
+    "arn": "arn:aws:controltower:ca-central-1::control/AWS-GR_LAMBDA_FUNCTION_PUBLIC_ACCESS_PROHIBITED",
+    "id": "AWS-GR_LAMBDA_FUNCTION_PUBLIC_ACCESS_PROHIBITED"
+  },
+  "AWS-GR_MFA_ENABLED_FOR_IAM_CONSOLE_ACCESS": {
+    "arn": "arn:aws:controltower:ca-central-1::control/AWS-GR_MFA_ENABLED_FOR_IAM_CONSOLE_ACCESS",
+    "id": "AWS-GR_MFA_ENABLED_FOR_IAM_CONSOLE_ACCESS"
+  },
+  "AWS-GR_NO_UNRESTRICTED_ROUTE_TO_IGW": {
+    "arn": "arn:aws:controltower:ca-central-1::control/AWS-GR_NO_UNRESTRICTED_ROUTE_TO_IGW",
+    "id": "AWS-GR_NO_UNRESTRICTED_ROUTE_TO_IGW"
+  },
+  "AWS-GR_RDS_INSTANCE_PUBLIC_ACCESS_CHECK": {
+    "arn": "arn:aws:controltower:ca-central-1::control/AWS-GR_RDS_INSTANCE_PUBLIC_ACCESS_CHECK",
+    "id": "AWS-GR_RDS_INSTANCE_PUBLIC_ACCESS_CHECK"
+  },
+  "AWS-GR_RDS_SNAPSHOTS_PUBLIC_PROHIBITED": {
+    "arn": "arn:aws:controltower:ca-central-1::control/AWS-GR_RDS_SNAPSHOTS_PUBLIC_PROHIBITED",
+    "id": "AWS-GR_RDS_SNAPSHOTS_PUBLIC_PROHIBITED"
+  },
+  "AWS-GR_RDS_STORAGE_ENCRYPTED": {
+    "arn": "arn:aws:controltower:ca-central-1::control/AWS-GR_RDS_STORAGE_ENCRYPTED",
+    "id": "AWS-GR_RDS_STORAGE_ENCRYPTED"
+  },
+  "AWS-GR_REDSHIFT_CLUSTER_PUBLIC_ACCESS_CHECK": {
+    "arn": "arn:aws:controltower:ca-central-1::control/AWS-GR_REDSHIFT_CLUSTER_PUBLIC_ACCESS_CHECK",
+    "id": "AWS-GR_REDSHIFT_CLUSTER_PUBLIC_ACCESS_CHECK"
+  },
+  "AWS-GR_REGION_DENY": {
+    "arn": "arn:aws:controltower:ca-central-1::control/AWS-GR_REGION_DENY",
+    "id": "AWS-GR_REGION_DENY"
+  },
+  "AWS-GR_RESTRICTED_COMMON_PORTS": {
+    "arn": "arn:aws:controltower:ca-central-1::control/AWS-GR_RESTRICTED_COMMON_PORTS",
+    "id": "AWS-GR_RESTRICTED_COMMON_PORTS"
+  },
+  "AWS-GR_RESTRICTED_SSH": {
+    "arn": "arn:aws:controltower:ca-central-1::control/AWS-GR_RESTRICTED_SSH",
+    "id": "AWS-GR_RESTRICTED_SSH"
+  },
+  "AWS-GR_RESTRICT_ROOT_USER": {
+    "arn": "arn:aws:controltower:ca-central-1::control/AWS-GR_RESTRICT_ROOT_USER",
+    "id": "AWS-GR_RESTRICT_ROOT_USER"
+  },
+  "AWS-GR_RESTRICT_ROOT_USER_ACCESS_KEYS": {
+    "arn": "arn:aws:controltower:ca-central-1::control/AWS-GR_RESTRICT_ROOT_USER_ACCESS_KEYS",
+    "id": "AWS-GR_RESTRICT_ROOT_USER_ACCESS_KEYS"
+  },
+  "AWS-GR_RESTRICT_S3_CROSS_REGION_REPLICATION": {
+    "arn": "arn:aws:controltower:ca-central-1::control/AWS-GR_RESTRICT_S3_CROSS_REGION_REPLICATION",
+    "id": "AWS-GR_RESTRICT_S3_CROSS_REGION_REPLICATION"
+  },
+  "AWS-GR_RESTRICT_S3_DELETE_WITHOUT_MFA": {
+    "arn": "arn:aws:controltower:ca-central-1::control/AWS-GR_RESTRICT_S3_DELETE_WITHOUT_MFA",
+    "id": "AWS-GR_RESTRICT_S3_DELETE_WITHOUT_MFA"
+  },
+  "AWS-GR_ROOT_ACCOUNT_MFA_ENABLED": {
+    "arn": "arn:aws:controltower:ca-central-1::control/AWS-GR_ROOT_ACCOUNT_MFA_ENABLED",
+    "id": "AWS-GR_ROOT_ACCOUNT_MFA_ENABLED"
+  },
+  "AWS-GR_S3_ACCOUNT_LEVEL_PUBLIC_ACCESS_BLOCKS_PERIODIC": {
+    "arn": "arn:aws:controltower:ca-central-1::control/AWS-GR_S3_ACCOUNT_LEVEL_PUBLIC_ACCESS_BLOCKS_PERIODIC",
+    "id": "AWS-GR_S3_ACCOUNT_LEVEL_PUBLIC_ACCESS_BLOCKS_PERIODIC"
+  },
+  "AWS-GR_S3_BUCKET_PUBLIC_READ_PROHIBITED": {
+    "arn": "arn:aws:controltower:ca-central-1::control/AWS-GR_S3_BUCKET_PUBLIC_READ_PROHIBITED",
+    "id": "AWS-GR_S3_BUCKET_PUBLIC_READ_PROHIBITED"
+  },
+  "AWS-GR_S3_BUCKET_PUBLIC_WRITE_PROHIBITED": {
+    "arn": "arn:aws:controltower:ca-central-1::control/AWS-GR_S3_BUCKET_PUBLIC_WRITE_PROHIBITED",
+    "id": "AWS-GR_S3_BUCKET_PUBLIC_WRITE_PROHIBITED"
+  },
+  "AWS-GR_S3_VERSIONING_ENABLED": {
+    "arn": "arn:aws:controltower:ca-central-1::control/AWS-GR_S3_VERSIONING_ENABLED",
+    "id": "AWS-GR_S3_VERSIONING_ENABLED"
+  },
+  "AWS-GR_SAGEMAKER_NOTEBOOK_NO_DIRECT_INTERNET_ACCESS": {
+    "arn": "arn:aws:controltower:ca-central-1::control/AWS-GR_SAGEMAKER_NOTEBOOK_NO_DIRECT_INTERNET_ACCESS",
+    "id": "AWS-GR_SAGEMAKER_NOTEBOOK_NO_DIRECT_INTERNET_ACCESS"
+  },
+  "AWS-GR_SSM_DOCUMENT_NOT_PUBLIC": {
+    "arn": "arn:aws:controltower:ca-central-1::control/AWS-GR_SSM_DOCUMENT_NOT_PUBLIC",
+    "id": "AWS-GR_SSM_DOCUMENT_NOT_PUBLIC"
+  },
+  "AWS-GR_SUBNET_AUTO_ASSIGN_PUBLIC_IP_DISABLED": {
+    "arn": "arn:aws:controltower:ca-central-1::control/AWS-GR_SUBNET_AUTO_ASSIGN_PUBLIC_IP_DISABLED",
+    "id": "AWS-GR_SUBNET_AUTO_ASSIGN_PUBLIC_IP_DISABLED"
+  },
+  "CT.ACM.PR.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/CKCKTGLVEKYB",
+    "id": "CKCKTGLVEKYB"
+  },
+  "CT.APIGATEWAY.PR.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/EUYZNAPVCUUS",
+    "id": "EUYZNAPVCUUS"
+  },
+  "CT.APIGATEWAY.PR.2": {
+    "arn": "arn:aws:controltower:ca-central-1::control/RPOXLFOSAVOI",
+    "id": "RPOXLFOSAVOI"
+  },
+  "CT.APIGATEWAY.PR.3": {
+    "arn": "arn:aws:controltower:ca-central-1::control/XXKODHBWTZTZ",
+    "id": "XXKODHBWTZTZ"
+  },
+  "CT.APIGATEWAY.PR.4": {
+    "arn": "arn:aws:controltower:ca-central-1::control/WDEOZRYGKEQK",
+    "id": "WDEOZRYGKEQK"
+  },
+  "CT.APIGATEWAY.PR.5": {
+    "arn": "arn:aws:controltower:ca-central-1::control/NMHBYPLKKHGT",
+    "id": "NMHBYPLKKHGT"
+  },
+  "CT.APPSYNC.PR.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/KRLWEXIIRJPA",
+    "id": "KRLWEXIIRJPA"
+  },
+  "CT.AUTOSCALING.PR.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/SDBNXVSDHXFD",
+    "id": "SDBNXVSDHXFD"
+  },
+  "CT.AUTOSCALING.PR.2": {
+    "arn": "arn:aws:controltower:ca-central-1::control/ZRMHGMLRJGDN",
+    "id": "ZRMHGMLRJGDN"
+  },
+  "CT.AUTOSCALING.PR.3": {
+    "arn": "arn:aws:controltower:ca-central-1::control/UJLFDUJHLYUQ",
+    "id": "UJLFDUJHLYUQ"
+  },
+  "CT.AUTOSCALING.PR.4": {
+    "arn": "arn:aws:controltower:ca-central-1::control/VCDSRAZXDLZP",
+    "id": "VCDSRAZXDLZP"
+  },
+  "CT.AUTOSCALING.PR.5": {
+    "arn": "arn:aws:controltower:ca-central-1::control/CXHVXOATJHPY",
+    "id": "CXHVXOATJHPY"
+  },
+  "CT.AUTOSCALING.PR.6": {
+    "arn": "arn:aws:controltower:ca-central-1::control/KNWXLCUZBJPR",
+    "id": "KNWXLCUZBJPR"
+  },
+  "CT.AUTOSCALING.PR.8": {
+    "arn": "arn:aws:controltower:ca-central-1::control/SUQITVFXSNAS",
+    "id": "SUQITVFXSNAS"
+  },
+  "CT.CLOUDFORMATION.PR.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/OMCTIJOASMIZ",
+    "id": "OMCTIJOASMIZ"
+  },
+  "CT.CLOUDFRONT.PR.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/TQHOWLDDEHMD",
+    "id": "TQHOWLDDEHMD"
+  },
+  "CT.CLOUDFRONT.PR.10": {
+    "arn": "arn:aws:controltower:ca-central-1::control/EMBBJBOEZUXI",
+    "id": "EMBBJBOEZUXI"
+  },
+  "CT.CLOUDFRONT.PR.11": {
+    "arn": "arn:aws:controltower:ca-central-1::control/ROXOJWPKIJGJ",
+    "id": "ROXOJWPKIJGJ"
+  },
+  "CT.CLOUDFRONT.PR.2": {
+    "arn": "arn:aws:controltower:ca-central-1::control/RUMPJMCCNCJW",
+    "id": "RUMPJMCCNCJW"
+  },
+  "CT.CLOUDFRONT.PR.3": {
+    "arn": "arn:aws:controltower:ca-central-1::control/YXRNFYZICBAZ",
+    "id": "YXRNFYZICBAZ"
+  },
+  "CT.CLOUDFRONT.PR.4": {
+    "arn": "arn:aws:controltower:ca-central-1::control/CXLHFJBBESPG",
+    "id": "CXLHFJBBESPG"
+  },
+  "CT.CLOUDFRONT.PR.5": {
+    "arn": "arn:aws:controltower:ca-central-1::control/ZYDBRRMVVTZV",
+    "id": "ZYDBRRMVVTZV"
+  },
+  "CT.CLOUDFRONT.PR.6": {
+    "arn": "arn:aws:controltower:ca-central-1::control/LLIUTEJBMGHE",
+    "id": "LLIUTEJBMGHE"
+  },
+  "CT.CLOUDFRONT.PR.7": {
+    "arn": "arn:aws:controltower:ca-central-1::control/EYUKXNOQHBVC",
+    "id": "EYUKXNOQHBVC"
+  },
+  "CT.CLOUDFRONT.PR.8": {
+    "arn": "arn:aws:controltower:ca-central-1::control/FZHDAFBJJMXP",
+    "id": "FZHDAFBJJMXP"
+  },
+  "CT.CLOUDFRONT.PR.9": {
+    "arn": "arn:aws:controltower:ca-central-1::control/OJPYIMZXKWMN",
+    "id": "OJPYIMZXKWMN"
+  },
+  "CT.CLOUDTRAIL.PR.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/LADQHOPWFDQE",
+    "id": "LADQHOPWFDQE"
+  },
+  "CT.CLOUDTRAIL.PR.2": {
+    "arn": "arn:aws:controltower:ca-central-1::control/KAEEWMVGTQBG",
+    "id": "KAEEWMVGTQBG"
+  },
+  "CT.CLOUDTRAIL.PR.3": {
+    "arn": "arn:aws:controltower:ca-central-1::control/GKZHBZWQTGXQ",
+    "id": "GKZHBZWQTGXQ"
+  },
+  "CT.CLOUDWATCH.PR.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/VQRWIUPQXDNG",
+    "id": "VQRWIUPQXDNG"
+  },
+  "CT.CLOUDWATCH.PR.2": {
+    "arn": "arn:aws:controltower:ca-central-1::control/VPXBCTGURFRG",
+    "id": "VPXBCTGURFRG"
+  },
+  "CT.CLOUDWATCH.PR.3": {
+    "arn": "arn:aws:controltower:ca-central-1::control/RZUDTGNQSLRG",
+    "id": "RZUDTGNQSLRG"
+  },
+  "CT.CLOUDWATCH.PR.4": {
+    "arn": "arn:aws:controltower:ca-central-1::control/IOQUGWNHEDSO",
+    "id": "IOQUGWNHEDSO"
+  },
+  "CT.CODEBUILD.PR.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/RSYHHWKEXHCO",
+    "id": "RSYHHWKEXHCO"
+  },
+  "CT.CODEBUILD.PR.2": {
+    "arn": "arn:aws:controltower:ca-central-1::control/SCRYBKUZHBYQ",
+    "id": "SCRYBKUZHBYQ"
+  },
+  "CT.CODEBUILD.PR.3": {
+    "arn": "arn:aws:controltower:ca-central-1::control/ZNXNBMZCHFPQ",
+    "id": "ZNXNBMZCHFPQ"
+  },
+  "CT.CODEBUILD.PR.4": {
+    "arn": "arn:aws:controltower:ca-central-1::control/OGBAKFMGJPZY",
+    "id": "OGBAKFMGJPZY"
+  },
+  "CT.CODEBUILD.PR.5": {
+    "arn": "arn:aws:controltower:ca-central-1::control/KJEOAYEPVAWT",
+    "id": "KJEOAYEPVAWT"
+  },
+  "CT.CODEBUILD.PR.6": {
+    "arn": "arn:aws:controltower:ca-central-1::control/LWZACZNXEWFR",
+    "id": "LWZACZNXEWFR"
+  },
+  "CT.DMS.PR.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/XXXIGZQSIPVK",
+    "id": "XXXIGZQSIPVK"
+  },
+  "CT.DOCUMENTDB.PR.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/CUUSQEVMNYIR",
+    "id": "CUUSQEVMNYIR"
+  },
+  "CT.DOCUMENTDB.PR.2": {
+    "arn": "arn:aws:controltower:ca-central-1::control/NURHQPDKMITF",
+    "id": "NURHQPDKMITF"
+  },
+  "CT.DYNAMODB.PR.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/MUUOXHEGOERO",
+    "id": "MUUOXHEGOERO"
+  },
+  "CT.DYNAMODB.PR.2": {
+    "arn": "arn:aws:controltower:ca-central-1::control/ZXANARWCPQNW",
+    "id": "ZXANARWCPQNW"
+  },
+  "CT.EC2.PR.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/HHAFBCZLQYXY",
+    "id": "HHAFBCZLQYXY"
+  },
+  "CT.EC2.PR.10": {
+    "arn": "arn:aws:controltower:ca-central-1::control/RTCRBMNLMGBL",
+    "id": "RTCRBMNLMGBL"
+  },
+  "CT.EC2.PR.11": {
+    "arn": "arn:aws:controltower:ca-central-1::control/ZBWKQBJUYPUA",
+    "id": "ZBWKQBJUYPUA"
+  },
+  "CT.EC2.PR.12": {
+    "arn": "arn:aws:controltower:ca-central-1::control/HJKXVHTKUFCB",
+    "id": "HJKXVHTKUFCB"
+  },
+  "CT.EC2.PR.13": {
+    "arn": "arn:aws:controltower:ca-central-1::control/MTUNNERTAWUK",
+    "id": "MTUNNERTAWUK"
+  },
+  "CT.EC2.PR.2": {
+    "arn": "arn:aws:controltower:ca-central-1::control/KLTLENUYLCHX",
+    "id": "KLTLENUYLCHX"
+  },
+  "CT.EC2.PR.3": {
+    "arn": "arn:aws:controltower:ca-central-1::control/XENHMLFNKUIK",
+    "id": "XENHMLFNKUIK"
+  },
+  "CT.EC2.PR.4": {
+    "arn": "arn:aws:controltower:ca-central-1::control/KPFAQFAQJAWK",
+    "id": "KPFAQFAQJAWK"
+  },
+  "CT.EC2.PR.5": {
+    "arn": "arn:aws:controltower:ca-central-1::control/FTWNDUKURLTP",
+    "id": "FTWNDUKURLTP"
+  },
+  "CT.EC2.PR.6": {
+    "arn": "arn:aws:controltower:ca-central-1::control/DKUIAHCHYZTU",
+    "id": "DKUIAHCHYZTU"
+  },
+  "CT.EC2.PR.7": {
+    "arn": "arn:aws:controltower:ca-central-1::control/KMLZLRNMCKXY",
+    "id": "KMLZLRNMCKXY"
+  },
+  "CT.EC2.PR.8": {
+    "arn": "arn:aws:controltower:ca-central-1::control/BFYFBNGDUPMY",
+    "id": "BFYFBNGDUPMY"
+  },
+  "CT.EC2.PR.9": {
+    "arn": "arn:aws:controltower:ca-central-1::control/SLQHSJSMHMNF",
+    "id": "SLQHSJSMHMNF"
+  },
+  "CT.ECR.PR.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/IMGIIRQPZYLI",
+    "id": "IMGIIRQPZYLI"
+  },
+  "CT.ECR.PR.2": {
+    "arn": "arn:aws:controltower:ca-central-1::control/NTNTNZEGMLUH",
+    "id": "NTNTNZEGMLUH"
+  },
+  "CT.ECR.PR.3": {
+    "arn": "arn:aws:controltower:ca-central-1::control/FKSEYKPJSDJT",
+    "id": "FKSEYKPJSDJT"
+  },
+  "CT.ECS.PR.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/GBPYRLBOQCKZ",
+    "id": "GBPYRLBOQCKZ"
+  },
+  "CT.ECS.PR.10": {
+    "arn": "arn:aws:controltower:ca-central-1::control/QFQHDLEJLUVA",
+    "id": "QFQHDLEJLUVA"
+  },
+  "CT.ECS.PR.11": {
+    "arn": "arn:aws:controltower:ca-central-1::control/EINHSETMUTZS",
+    "id": "EINHSETMUTZS"
+  },
+  "CT.ECS.PR.12": {
+    "arn": "arn:aws:controltower:ca-central-1::control/UICVAWRLEUIA",
+    "id": "UICVAWRLEUIA"
+  },
+  "CT.ECS.PR.2": {
+    "arn": "arn:aws:controltower:ca-central-1::control/SHIXZVMGGYMM",
+    "id": "SHIXZVMGGYMM"
+  },
+  "CT.ECS.PR.3": {
+    "arn": "arn:aws:controltower:ca-central-1::control/WHBVGSRPVIND",
+    "id": "WHBVGSRPVIND"
+  },
+  "CT.ECS.PR.4": {
+    "arn": "arn:aws:controltower:ca-central-1::control/IARHPIWNYLNY",
+    "id": "IARHPIWNYLNY"
+  },
+  "CT.ECS.PR.5": {
+    "arn": "arn:aws:controltower:ca-central-1::control/MBYLGYRJVDVQ",
+    "id": "MBYLGYRJVDVQ"
+  },
+  "CT.ECS.PR.6": {
+    "arn": "arn:aws:controltower:ca-central-1::control/IFZZOZKBHYXF",
+    "id": "IFZZOZKBHYXF"
+  },
+  "CT.ECS.PR.7": {
+    "arn": "arn:aws:controltower:ca-central-1::control/OWWEUIDVOUHP",
+    "id": "OWWEUIDVOUHP"
+  },
+  "CT.ECS.PR.8": {
+    "arn": "arn:aws:controltower:ca-central-1::control/OPJANTDNJXXU",
+    "id": "OPJANTDNJXXU"
+  },
+  "CT.ECS.PR.9": {
+    "arn": "arn:aws:controltower:ca-central-1::control/QQBFGIYIOMAO",
+    "id": "QQBFGIYIOMAO"
+  },
+  "CT.EKS.PR.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/AWMWFFQFZKMX",
+    "id": "AWMWFFQFZKMX"
+  },
+  "CT.ELASTICACHE.PR.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/SIDZOIYXVIKC",
+    "id": "SIDZOIYXVIKC"
+  },
+  "CT.ELASTICACHE.PR.2": {
+    "arn": "arn:aws:controltower:ca-central-1::control/GXKOJVEIZCKJ",
+    "id": "GXKOJVEIZCKJ"
+  },
+  "CT.ELASTICACHE.PR.3": {
+    "arn": "arn:aws:controltower:ca-central-1::control/AGVBFPDHFSFH",
+    "id": "AGVBFPDHFSFH"
+  },
+  "CT.ELASTICACHE.PR.4": {
+    "arn": "arn:aws:controltower:ca-central-1::control/RWFPWLVDFXEU",
+    "id": "RWFPWLVDFXEU"
+  },
+  "CT.ELASTICACHE.PR.5": {
+    "arn": "arn:aws:controltower:ca-central-1::control/DJMUOJNRFWVF",
+    "id": "DJMUOJNRFWVF"
+  },
+  "CT.ELASTICACHE.PR.6": {
+    "arn": "arn:aws:controltower:ca-central-1::control/VATZKDSWZSOA",
+    "id": "VATZKDSWZSOA"
+  },
+  "CT.ELASTICACHE.PR.7": {
+    "arn": "arn:aws:controltower:ca-central-1::control/KBOVLCAXAJEC",
+    "id": "KBOVLCAXAJEC"
+  },
+  "CT.ELASTICBEANSTALK.PR.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/CIETIOVQWORV",
+    "id": "CIETIOVQWORV"
+  },
+  "CT.ELASTICBEANSTALK.PR.2": {
+    "arn": "arn:aws:controltower:ca-central-1::control/YYHZHDDXKKIA",
+    "id": "YYHZHDDXKKIA"
+  },
+  "CT.ELASTICBEANSTALK.PR.3": {
+    "arn": "arn:aws:controltower:ca-central-1::control/VBLRFNOUJAIX",
+    "id": "VBLRFNOUJAIX"
+  },
+  "CT.ELASTICFILESYSYSTEM.PR.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/JEMASGVKBRQF",
+    "id": "JEMASGVKBRQF"
+  },
+  "CT.ELASTICFILESYSYSTEM.PR.2": {
+    "arn": "arn:aws:controltower:ca-central-1::control/SMQITIAHFKPG",
+    "id": "SMQITIAHFKPG"
+  },
+  "CT.ELASTICFILESYSYSTEM.PR.3": {
+    "arn": "arn:aws:controltower:ca-central-1::control/RSZNNHZMPHGQ",
+    "id": "RSZNNHZMPHGQ"
+  },
+  "CT.ELASTICFILESYSYSTEM.PR.4": {
+    "arn": "arn:aws:controltower:ca-central-1::control/AKFECGTIWOJZ",
+    "id": "AKFECGTIWOJZ"
+  },
+  "CT.ELASTICLOADBALANCING.PR.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/GYIRQYZQGXOJ",
+    "id": "GYIRQYZQGXOJ"
+  },
+  "CT.ELASTICLOADBALANCING.PR.10": {
+    "arn": "arn:aws:controltower:ca-central-1::control/CWGCUTVHELNV",
+    "id": "CWGCUTVHELNV"
+  },
+  "CT.ELASTICLOADBALANCING.PR.11": {
+    "arn": "arn:aws:controltower:ca-central-1::control/VGCEFHSLONXT",
+    "id": "VGCEFHSLONXT"
+  },
+  "CT.ELASTICLOADBALANCING.PR.12": {
+    "arn": "arn:aws:controltower:ca-central-1::control/RZQGPORFMUYS",
+    "id": "RZQGPORFMUYS"
+  },
+  "CT.ELASTICLOADBALANCING.PR.13": {
+    "arn": "arn:aws:controltower:ca-central-1::control/SHNYFGRZOKNR",
+    "id": "SHNYFGRZOKNR"
+  },
+  "CT.ELASTICLOADBALANCING.PR.2": {
+    "arn": "arn:aws:controltower:ca-central-1::control/UQPWYSTFWPNX",
+    "id": "UQPWYSTFWPNX"
+  },
+  "CT.ELASTICLOADBALANCING.PR.3": {
+    "arn": "arn:aws:controltower:ca-central-1::control/BLKONTFMJJIM",
+    "id": "BLKONTFMJJIM"
+  },
+  "CT.ELASTICLOADBALANCING.PR.4": {
+    "arn": "arn:aws:controltower:ca-central-1::control/GPGUBQHOYWEA",
+    "id": "GPGUBQHOYWEA"
+  },
+  "CT.ELASTICLOADBALANCING.PR.5": {
+    "arn": "arn:aws:controltower:ca-central-1::control/LZTVNXQBDIDF",
+    "id": "LZTVNXQBDIDF"
+  },
+  "CT.ELASTICLOADBALANCING.PR.6": {
+    "arn": "arn:aws:controltower:ca-central-1::control/UHSFKNBKXDLE",
+    "id": "UHSFKNBKXDLE"
+  },
+  "CT.ELASTICLOADBALANCING.PR.7": {
+    "arn": "arn:aws:controltower:ca-central-1::control/RXBCLXMNDYLS",
+    "id": "RXBCLXMNDYLS"
+  },
+  "CT.ELASTICLOADBALANCING.PR.8": {
+    "arn": "arn:aws:controltower:ca-central-1::control/HDUQIRHQJHIB",
+    "id": "HDUQIRHQJHIB"
+  },
+  "CT.ELASTICLOADBALANCING.PR.9": {
+    "arn": "arn:aws:controltower:ca-central-1::control/ZFDYEMUBADTU",
+    "id": "ZFDYEMUBADTU"
+  },
+  "CT.GUARDDUTY.PR.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/ETRMJIXAELLB",
+    "id": "ETRMJIXAELLB"
+  },
+  "CT.IAM.PR.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/XSODKGTQFXRF",
+    "id": "XSODKGTQFXRF"
+  },
+  "CT.IAM.PR.2": {
+    "arn": "arn:aws:controltower:ca-central-1::control/HOKZEQYPEYHL",
+    "id": "HOKZEQYPEYHL"
+  },
+  "CT.IAM.PR.3": {
+    "arn": "arn:aws:controltower:ca-central-1::control/UVQFBXEVKVGX",
+    "id": "UVQFBXEVKVGX"
+  },
+  "CT.IAM.PR.4": {
+    "arn": "arn:aws:controltower:ca-central-1::control/UEHHSMOZOLIQ",
+    "id": "UEHHSMOZOLIQ"
+  },
+  "CT.IAM.PR.5": {
+    "arn": "arn:aws:controltower:ca-central-1::control/CXYDXHZWZNXX",
+    "id": "CXYDXHZWZNXX"
+  },
+  "CT.KINESIS.PR.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/GJHIYBNFTIXA",
+    "id": "GJHIYBNFTIXA"
+  },
+  "CT.KMS.PR.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/TDLOCMNRYDEW",
+    "id": "TDLOCMNRYDEW"
+  },
+  "CT.LAMBDA.PR.2": {
+    "arn": "arn:aws:controltower:ca-central-1::control/FXFPBXFQPQWW",
+    "id": "FXFPBXFQPQWW"
+  },
+  "CT.LAMBDA.PR.3": {
+    "arn": "arn:aws:controltower:ca-central-1::control/FELBWGXPFUJB",
+    "id": "FELBWGXPFUJB"
+  },
+  "CT.NEPTUNE.PR.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/IMAPSYUKKCBZ",
+    "id": "IMAPSYUKKCBZ"
+  },
+  "CT.NEPTUNE.PR.2": {
+    "arn": "arn:aws:controltower:ca-central-1::control/VFQOGQVHFGGE",
+    "id": "VFQOGQVHFGGE"
+  },
+  "CT.NEPTUNE.PR.3": {
+    "arn": "arn:aws:controltower:ca-central-1::control/BONSNYFHTQYM",
+    "id": "BONSNYFHTQYM"
+  },
+  "CT.NETWORK-FIREWALL.PR.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/SIIOUKQWZSFK",
+    "id": "SIIOUKQWZSFK"
+  },
+  "CT.NETWORK-FIREWALL.PR.2": {
+    "arn": "arn:aws:controltower:ca-central-1::control/GTFHCKELKRXJ",
+    "id": "GTFHCKELKRXJ"
+  },
+  "CT.NETWORK-FIREWALL.PR.3": {
+    "arn": "arn:aws:controltower:ca-central-1::control/YZYEDZMRQLKG",
+    "id": "YZYEDZMRQLKG"
+  },
+  "CT.NETWORK-FIREWALL.PR.4": {
+    "arn": "arn:aws:controltower:ca-central-1::control/QBORBGFWFGIX",
+    "id": "QBORBGFWFGIX"
+  },
+  "CT.OPENSEARCH.PR.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/DYHUHTZMANYT",
+    "id": "DYHUHTZMANYT"
+  },
+  "CT.OPENSEARCH.PR.10": {
+    "arn": "arn:aws:controltower:ca-central-1::control/CUKNPGFNVIVZ",
+    "id": "CUKNPGFNVIVZ"
+  },
+  "CT.OPENSEARCH.PR.11": {
+    "arn": "arn:aws:controltower:ca-central-1::control/JJJBKFBKOIFL",
+    "id": "JJJBKFBKOIFL"
+  },
+  "CT.OPENSEARCH.PR.12": {
+    "arn": "arn:aws:controltower:ca-central-1::control/GBORBUKXVXWV",
+    "id": "GBORBUKXVXWV"
+  },
+  "CT.OPENSEARCH.PR.13": {
+    "arn": "arn:aws:controltower:ca-central-1::control/MHOCPNBLGBET",
+    "id": "MHOCPNBLGBET"
+  },
+  "CT.OPENSEARCH.PR.14": {
+    "arn": "arn:aws:controltower:ca-central-1::control/BHKRHJKOIARA",
+    "id": "BHKRHJKOIARA"
+  },
+  "CT.OPENSEARCH.PR.15": {
+    "arn": "arn:aws:controltower:ca-central-1::control/AXPLMDKRPSRX",
+    "id": "AXPLMDKRPSRX"
+  },
+  "CT.OPENSEARCH.PR.16": {
+    "arn": "arn:aws:controltower:ca-central-1::control/BYMWNEKJVBPA",
+    "id": "BYMWNEKJVBPA"
+  },
+  "CT.OPENSEARCH.PR.2": {
+    "arn": "arn:aws:controltower:ca-central-1::control/XMRAHLUXZRVT",
+    "id": "XMRAHLUXZRVT"
+  },
+  "CT.OPENSEARCH.PR.3": {
+    "arn": "arn:aws:controltower:ca-central-1::control/QUIKFRDEFZBK",
+    "id": "QUIKFRDEFZBK"
+  },
+  "CT.OPENSEARCH.PR.4": {
+    "arn": "arn:aws:controltower:ca-central-1::control/DOPPXRIVAYVN",
+    "id": "DOPPXRIVAYVN"
+  },
+  "CT.OPENSEARCH.PR.5": {
+    "arn": "arn:aws:controltower:ca-central-1::control/WZANTGTEGLMA",
+    "id": "WZANTGTEGLMA"
+  },
+  "CT.OPENSEARCH.PR.6": {
+    "arn": "arn:aws:controltower:ca-central-1::control/ATEKPCKHHHYQ",
+    "id": "ATEKPCKHHHYQ"
+  },
+  "CT.OPENSEARCH.PR.7": {
+    "arn": "arn:aws:controltower:ca-central-1::control/MDJZFKJKKFMG",
+    "id": "MDJZFKJKKFMG"
+  },
+  "CT.OPENSEARCH.PR.8": {
+    "arn": "arn:aws:controltower:ca-central-1::control/PKOEOZEUJQMU",
+    "id": "PKOEOZEUJQMU"
+  },
+  "CT.OPENSEARCH.PR.9": {
+    "arn": "arn:aws:controltower:ca-central-1::control/IXYPCNJPAVYP",
+    "id": "IXYPCNJPAVYP"
+  },
+  "CT.RDS.PR.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/QFAFUIKDIHXA",
+    "id": "QFAFUIKDIHXA"
+  },
+  "CT.RDS.PR.10": {
+    "arn": "arn:aws:controltower:ca-central-1::control/DVXCTDPQANLR",
+    "id": "DVXCTDPQANLR"
+  },
+  "CT.RDS.PR.11": {
+    "arn": "arn:aws:controltower:ca-central-1::control/HTVHIQWPULEZ",
+    "id": "HTVHIQWPULEZ"
+  },
+  "CT.RDS.PR.12": {
+    "arn": "arn:aws:controltower:ca-central-1::control/RVAPYALZJHLY",
+    "id": "RVAPYALZJHLY"
+  },
+  "CT.RDS.PR.13": {
+    "arn": "arn:aws:controltower:ca-central-1::control/WAJLGTNLDLJS",
+    "id": "WAJLGTNLDLJS"
+  },
+  "CT.RDS.PR.14": {
+    "arn": "arn:aws:controltower:ca-central-1::control/AUSMNRMJJUFG",
+    "id": "AUSMNRMJJUFG"
+  },
+  "CT.RDS.PR.15": {
+    "arn": "arn:aws:controltower:ca-central-1::control/KYNERGDEMOGQ",
+    "id": "KYNERGDEMOGQ"
+  },
+  "CT.RDS.PR.16": {
+    "arn": "arn:aws:controltower:ca-central-1::control/ANFLBGZRYMCQ",
+    "id": "ANFLBGZRYMCQ"
+  },
+  "CT.RDS.PR.17": {
+    "arn": "arn:aws:controltower:ca-central-1::control/CBUKUNUOEILM",
+    "id": "CBUKUNUOEILM"
+  },
+  "CT.RDS.PR.18": {
+    "arn": "arn:aws:controltower:ca-central-1::control/MKVLLPSIEPIO",
+    "id": "MKVLLPSIEPIO"
+  },
+  "CT.RDS.PR.19": {
+    "arn": "arn:aws:controltower:ca-central-1::control/PJXOOIPSMNDA",
+    "id": "PJXOOIPSMNDA"
+  },
+  "CT.RDS.PR.2": {
+    "arn": "arn:aws:controltower:ca-central-1::control/OHBBTGZTMHOB",
+    "id": "OHBBTGZTMHOB"
+  },
+  "CT.RDS.PR.20": {
+    "arn": "arn:aws:controltower:ca-central-1::control/RZBFFTPJOGCG",
+    "id": "RZBFFTPJOGCG"
+  },
+  "CT.RDS.PR.21": {
+    "arn": "arn:aws:controltower:ca-central-1::control/EHEHUGUMGNMM",
+    "id": "EHEHUGUMGNMM"
+  },
+  "CT.RDS.PR.22": {
+    "arn": "arn:aws:controltower:ca-central-1::control/NIABCZCSXRUW",
+    "id": "NIABCZCSXRUW"
+  },
+  "CT.RDS.PR.23": {
+    "arn": "arn:aws:controltower:ca-central-1::control/SMCLOXFTGGJR",
+    "id": "SMCLOXFTGGJR"
+  },
+  "CT.RDS.PR.24": {
+    "arn": "arn:aws:controltower:ca-central-1::control/VIDEBVCBMMHE",
+    "id": "VIDEBVCBMMHE"
+  },
+  "CT.RDS.PR.25": {
+    "arn": "arn:aws:controltower:ca-central-1::control/LOBRESBCCMGM",
+    "id": "LOBRESBCCMGM"
+  },
+  "CT.RDS.PR.3": {
+    "arn": "arn:aws:controltower:ca-central-1::control/CKRDGQKNEBYT",
+    "id": "CKRDGQKNEBYT"
+  },
+  "CT.RDS.PR.4": {
+    "arn": "arn:aws:controltower:ca-central-1::control/OMCIGOBMPXNW",
+    "id": "OMCIGOBMPXNW"
+  },
+  "CT.RDS.PR.5": {
+    "arn": "arn:aws:controltower:ca-central-1::control/AORICFZECLOS",
+    "id": "AORICFZECLOS"
+  },
+  "CT.RDS.PR.6": {
+    "arn": "arn:aws:controltower:ca-central-1::control/BPTUKBOEYVEC",
+    "id": "BPTUKBOEYVEC"
+  },
+  "CT.RDS.PR.7": {
+    "arn": "arn:aws:controltower:ca-central-1::control/OPZBMSCIYMQF",
+    "id": "OPZBMSCIYMQF"
+  },
+  "CT.RDS.PR.8": {
+    "arn": "arn:aws:controltower:ca-central-1::control/LOKAOGKSIRIC",
+    "id": "LOKAOGKSIRIC"
+  },
+  "CT.RDS.PR.9": {
+    "arn": "arn:aws:controltower:ca-central-1::control/RGEVPCAEAOUT",
+    "id": "RGEVPCAEAOUT"
+  },
+  "CT.REDSHIFT.PR.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/YTYJJRRXOEZW",
+    "id": "YTYJJRRXOEZW"
+  },
+  "CT.REDSHIFT.PR.2": {
+    "arn": "arn:aws:controltower:ca-central-1::control/CXVHRDCRTVRV",
+    "id": "CXVHRDCRTVRV"
+  },
+  "CT.REDSHIFT.PR.3": {
+    "arn": "arn:aws:controltower:ca-central-1::control/XBMWWNUQRGVG",
+    "id": "XBMWWNUQRGVG"
+  },
+  "CT.REDSHIFT.PR.4": {
+    "arn": "arn:aws:controltower:ca-central-1::control/NHAZVUYWKCGM",
+    "id": "NHAZVUYWKCGM"
+  },
+  "CT.REDSHIFT.PR.5": {
+    "arn": "arn:aws:controltower:ca-central-1::control/JNUTHIPQTKAP",
+    "id": "JNUTHIPQTKAP"
+  },
+  "CT.REDSHIFT.PR.6": {
+    "arn": "arn:aws:controltower:ca-central-1::control/LXRTGBKAVZRM",
+    "id": "LXRTGBKAVZRM"
+  },
+  "CT.REDSHIFT.PR.7": {
+    "arn": "arn:aws:controltower:ca-central-1::control/QJZMCJVYCOGM",
+    "id": "QJZMCJVYCOGM"
+  },
+  "CT.REDSHIFT.PR.8": {
+    "arn": "arn:aws:controltower:ca-central-1::control/XQGTRHZSJLAS",
+    "id": "XQGTRHZSJLAS"
+  },
+  "CT.S3.PR.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/SDAWDCRWPYAZ",
+    "id": "SDAWDCRWPYAZ"
+  },
+  "CT.S3.PR.10": {
+    "arn": "arn:aws:controltower:ca-central-1::control/KLKYRVHDTSNQ",
+    "id": "KLKYRVHDTSNQ"
+  },
+  "CT.S3.PR.11": {
+    "arn": "arn:aws:controltower:ca-central-1::control/CRTXZSITMULU",
+    "id": "CRTXZSITMULU"
+  },
+  "CT.S3.PR.2": {
+    "arn": "arn:aws:controltower:ca-central-1::control/FGDZHXUFRPHF",
+    "id": "FGDZHXUFRPHF"
+  },
+  "CT.S3.PR.3": {
+    "arn": "arn:aws:controltower:ca-central-1::control/TWVWTNVBNUJI",
+    "id": "TWVWTNVBNUJI"
+  },
+  "CT.S3.PR.4": {
+    "arn": "arn:aws:controltower:ca-central-1::control/ZEZHYRLECUPJ",
+    "id": "ZEZHYRLECUPJ"
+  },
+  "CT.S3.PR.5": {
+    "arn": "arn:aws:controltower:ca-central-1::control/RZFOSHDJDWQR",
+    "id": "RZFOSHDJDWQR"
+  },
+  "CT.S3.PR.6": {
+    "arn": "arn:aws:controltower:ca-central-1::control/JVKPEBOPGEKW",
+    "id": "JVKPEBOPGEKW"
+  },
+  "CT.S3.PR.7": {
+    "arn": "arn:aws:controltower:ca-central-1::control/OBNREETGVUFP",
+    "id": "OBNREETGVUFP"
+  },
+  "CT.S3.PR.8": {
+    "arn": "arn:aws:controltower:ca-central-1::control/GIQAEXYNYBIQ",
+    "id": "GIQAEXYNYBIQ"
+  },
+  "CT.S3.PR.9": {
+    "arn": "arn:aws:controltower:ca-central-1::control/DKOVKUNLSMJU",
+    "id": "DKOVKUNLSMJU"
+  },
+  "CT.SAGEMAKER.PR.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/ZXUCDQEYSHPT",
+    "id": "ZXUCDQEYSHPT"
+  },
+  "CT.SAGEMAKER.PR.2": {
+    "arn": "arn:aws:controltower:ca-central-1::control/MCLENUGHMFXO",
+    "id": "MCLENUGHMFXO"
+  },
+  "CT.SAGEMAKER.PR.3": {
+    "arn": "arn:aws:controltower:ca-central-1::control/PFWXJZLGHZHS",
+    "id": "PFWXJZLGHZHS"
+  },
+  "CT.SQS.PR.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/SCSCEOQLMMEP",
+    "id": "SCSCEOQLMMEP"
+  },
+  "CT.SQS.PR.2": {
+    "arn": "arn:aws:controltower:ca-central-1::control/OQPVUZBBDOKR",
+    "id": "OQPVUZBBDOKR"
+  },
+  "CT.STEPFUNCTIONS.PR.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/RJCWEUDWEBLJ",
+    "id": "RJCWEUDWEBLJ"
+  },
+  "CT.STEPFUNCTIONS.PR.2": {
+    "arn": "arn:aws:controltower:ca-central-1::control/BZAERZJTDTLU",
+    "id": "BZAERZJTDTLU"
+  },
+  "CT.WAF-REGIONAL.PR.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/TLTACWUKOMHH",
+    "id": "TLTACWUKOMHH"
+  },
+  "CT.WAF-REGIONAL.PR.2": {
+    "arn": "arn:aws:controltower:ca-central-1::control/TYQHRXOLTMRT",
+    "id": "TYQHRXOLTMRT"
+  },
+  "CT.WAF.PR.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/SEFPFJCQOYKK",
+    "id": "SEFPFJCQOYKK"
+  },
+  "CT.WAF.PR.2": {
+    "arn": "arn:aws:controltower:ca-central-1::control/WKAOAEEFQEGB",
+    "id": "WKAOAEEFQEGB"
+  },
+  "CT.WAFV2.PR.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/NPVKWMPNGNPQ",
+    "id": "NPVKWMPNGNPQ"
+  },
+  "CT.WAFV2.PR.2": {
+    "arn": "arn:aws:controltower:ca-central-1::control/LZIRXMIWBDLY",
+    "id": "LZIRXMIWBDLY"
+  },
+  "SH.ACM.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/BUYCUYITYPVG",
+    "id": "BUYCUYITYPVG"
+  },
+  "SH.APIGateway.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/DHNKNPSWPETE",
+    "id": "DHNKNPSWPETE"
+  },
+  "SH.APIGateway.2": {
+    "arn": "arn:aws:controltower:ca-central-1::control/FDWKKFDTSZXX",
+    "id": "FDWKKFDTSZXX"
+  },
+  "SH.APIGateway.3": {
+    "arn": "arn:aws:controltower:ca-central-1::control/XCCMVZSAVCXR",
+    "id": "XCCMVZSAVCXR"
+  },
+  "SH.APIGateway.4": {
+    "arn": "arn:aws:controltower:ca-central-1::control/EZACRQZNMTPK",
+    "id": "EZACRQZNMTPK"
+  },
+  "SH.APIGateway.5": {
+    "arn": "arn:aws:controltower:ca-central-1::control/UHUYXDUHUCFJ",
+    "id": "UHUYXDUHUCFJ"
+  },
+  "SH.APIGateway.8": {
+    "arn": "arn:aws:controltower:ca-central-1::control/IESMZILOLTCP",
+    "id": "IESMZILOLTCP"
+  },
+  "SH.APIGateway.9": {
+    "arn": "arn:aws:controltower:ca-central-1::control/YSRNXOSPMPAR",
+    "id": "YSRNXOSPMPAR"
+  },
+  "SH.Account.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/IBIPKUPTGKCH",
+    "id": "IBIPKUPTGKCH"
+  },
+  "SH.AutoScaling.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/IKKVVSEWGLMB",
+    "id": "IKKVVSEWGLMB"
+  },
+  "SH.AutoScaling.2": {
+    "arn": "arn:aws:controltower:ca-central-1::control/JXPAOXBTCBUY",
+    "id": "JXPAOXBTCBUY"
+  },
+  "SH.AutoScaling.3": {
+    "arn": "arn:aws:controltower:ca-central-1::control/JWIWNTSKAZGY",
+    "id": "JWIWNTSKAZGY"
+  },
+  "SH.AutoScaling.4": {
+    "arn": "arn:aws:controltower:ca-central-1::control/CHDIMYUFAZQV",
+    "id": "CHDIMYUFAZQV"
+  },
+  "SH.AutoScaling.6": {
+    "arn": "arn:aws:controltower:ca-central-1::control/ZFZUXSLEGCKV",
+    "id": "ZFZUXSLEGCKV"
+  },
+  "SH.AutoScaling.9": {
+    "arn": "arn:aws:controltower:ca-central-1::control/DVIOWKWKIFHK",
+    "id": "DVIOWKWKIFHK"
+  },
+  "SH.Autoscaling.5": {
+    "arn": "arn:aws:controltower:ca-central-1::control/IXJDZWZANLKO",
+    "id": "IXJDZWZANLKO"
+  },
+  "SH.CloudTrail.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/RQFYEFHIOOMQ",
+    "id": "RQFYEFHIOOMQ"
+  },
+  "SH.CloudTrail.2": {
+    "arn": "arn:aws:controltower:ca-central-1::control/AGXOGGHCGROE",
+    "id": "AGXOGGHCGROE"
+  },
+  "SH.CloudTrail.4": {
+    "arn": "arn:aws:controltower:ca-central-1::control/JVYZMZLDDDRJ",
+    "id": "JVYZMZLDDDRJ"
+  },
+  "SH.CloudTrail.5": {
+    "arn": "arn:aws:controltower:ca-central-1::control/UHRCNDTKYIUY",
+    "id": "UHRCNDTKYIUY"
+  },
+  "SH.CodeBuild.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/SGUSWAWCRFWN",
+    "id": "SGUSWAWCRFWN"
+  },
+  "SH.CodeBuild.2": {
+    "arn": "arn:aws:controltower:ca-central-1::control/YUAEVTSMXVYI",
+    "id": "YUAEVTSMXVYI"
+  },
+  "SH.CodeBuild.3": {
+    "arn": "arn:aws:controltower:ca-central-1::control/NZBZRTLNLRHC",
+    "id": "NZBZRTLNLRHC"
+  },
+  "SH.CodeBuild.4": {
+    "arn": "arn:aws:controltower:ca-central-1::control/KWXNGCKXFPFJ",
+    "id": "KWXNGCKXFPFJ"
+  },
+  "SH.CodeBuild.5": {
+    "arn": "arn:aws:controltower:ca-central-1::control/HIRXVHWDXNSB",
+    "id": "HIRXVHWDXNSB"
+  },
+  "SH.DMS.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/AAJEZEBPCKQN",
+    "id": "AAJEZEBPCKQN"
+  },
+  "SH.DynamoDB.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/BPAFLCPHAROG",
+    "id": "BPAFLCPHAROG"
+  },
+  "SH.DynamoDB.2": {
+    "arn": "arn:aws:controltower:ca-central-1::control/LEFDCDBLZGBP",
+    "id": "LEFDCDBLZGBP"
+  },
+  "SH.EC2.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/ZPHSVMVQOEUE",
+    "id": "ZPHSVMVQOEUE"
+  },
+  "SH.EC2.10": {
+    "arn": "arn:aws:controltower:ca-central-1::control/YUTCRRLVNEDL",
+    "id": "YUTCRRLVNEDL"
+  },
+  "SH.EC2.15": {
+    "arn": "arn:aws:controltower:ca-central-1::control/JNIOFIQSINQA",
+    "id": "JNIOFIQSINQA"
+  },
+  "SH.EC2.16": {
+    "arn": "arn:aws:controltower:ca-central-1::control/JOQQKGOKQTZN",
+    "id": "JOQQKGOKQTZN"
+  },
+  "SH.EC2.17": {
+    "arn": "arn:aws:controltower:ca-central-1::control/HPCENFROXVMO",
+    "id": "HPCENFROXVMO"
+  },
+  "SH.EC2.18": {
+    "arn": "arn:aws:controltower:ca-central-1::control/KEIKZYHHGWJS",
+    "id": "KEIKZYHHGWJS"
+  },
+  "SH.EC2.19": {
+    "arn": "arn:aws:controltower:ca-central-1::control/FQHRPTPPXKUX",
+    "id": "FQHRPTPPXKUX"
+  },
+  "SH.EC2.2": {
+    "arn": "arn:aws:controltower:ca-central-1::control/ARHTRDLRMOZS",
+    "id": "ARHTRDLRMOZS"
+  },
+  "SH.EC2.20": {
+    "arn": "arn:aws:controltower:ca-central-1::control/KLGUNNBLXGKP",
+    "id": "KLGUNNBLXGKP"
+  },
+  "SH.EC2.21": {
+    "arn": "arn:aws:controltower:ca-central-1::control/KMVIVYSEGFWX",
+    "id": "KMVIVYSEGFWX"
+  },
+  "SH.EC2.22": {
+    "arn": "arn:aws:controltower:ca-central-1::control/AHMNFXCLBAVD",
+    "id": "AHMNFXCLBAVD"
+  },
+  "SH.EC2.25": {
+    "arn": "arn:aws:controltower:ca-central-1::control/GGJFODCQQCED",
+    "id": "GGJFODCQQCED"
+  },
+  "SH.EC2.3": {
+    "arn": "arn:aws:controltower:ca-central-1::control/IEYBLJBRQTUY",
+    "id": "IEYBLJBRQTUY"
+  },
+  "SH.EC2.4": {
+    "arn": "arn:aws:controltower:ca-central-1::control/KWVQHHYVRNDF",
+    "id": "KWVQHHYVRNDF"
+  },
+  "SH.EC2.6": {
+    "arn": "arn:aws:controltower:ca-central-1::control/OKZLDNISDVIX",
+    "id": "OKZLDNISDVIX"
+  },
+  "SH.EC2.7": {
+    "arn": "arn:aws:controltower:ca-central-1::control/XGNQTADZLIOK",
+    "id": "XGNQTADZLIOK"
+  },
+  "SH.EC2.8": {
+    "arn": "arn:aws:controltower:ca-central-1::control/HXUBJTXHYPIP",
+    "id": "HXUBJTXHYPIP"
+  },
+  "SH.EC2.9": {
+    "arn": "arn:aws:controltower:ca-central-1::control/XPJJCAOJDFWB",
+    "id": "XPJJCAOJDFWB"
+  },
+  "SH.ECR.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/VJWDDYTKMDLE",
+    "id": "VJWDDYTKMDLE"
+  },
+  "SH.ECR.2": {
+    "arn": "arn:aws:controltower:ca-central-1::control/SKIMJMSMPJYN",
+    "id": "SKIMJMSMPJYN"
+  },
+  "SH.ECR.3": {
+    "arn": "arn:aws:controltower:ca-central-1::control/UUKJMLKQDJSZ",
+    "id": "UUKJMLKQDJSZ"
+  },
+  "SH.ECS.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/ZBKHVVFKVDFR",
+    "id": "ZBKHVVFKVDFR"
+  },
+  "SH.ECS.10": {
+    "arn": "arn:aws:controltower:ca-central-1::control/ULWMHFCYLPWR",
+    "id": "ULWMHFCYLPWR"
+  },
+  "SH.ECS.12": {
+    "arn": "arn:aws:controltower:ca-central-1::control/KXERYZUCGGJC",
+    "id": "KXERYZUCGGJC"
+  },
+  "SH.ECS.2": {
+    "arn": "arn:aws:controltower:ca-central-1::control/BEDXPJRWTDZQ",
+    "id": "BEDXPJRWTDZQ"
+  },
+  "SH.ECS.3": {
+    "arn": "arn:aws:controltower:ca-central-1::control/SFBMOXOHPGJA",
+    "id": "SFBMOXOHPGJA"
+  },
+  "SH.ECS.4": {
+    "arn": "arn:aws:controltower:ca-central-1::control/IFCCVDCGNTTK",
+    "id": "IFCCVDCGNTTK"
+  },
+  "SH.ECS.5": {
+    "arn": "arn:aws:controltower:ca-central-1::control/XGGLVMQEYMTU",
+    "id": "XGGLVMQEYMTU"
+  },
+  "SH.ECS.8": {
+    "arn": "arn:aws:controltower:ca-central-1::control/OTHWMXXNMCSP",
+    "id": "OTHWMXXNMCSP"
+  },
+  "SH.EFS.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/CSVENQNTZNYV",
+    "id": "CSVENQNTZNYV"
+  },
+  "SH.EFS.2": {
+    "arn": "arn:aws:controltower:ca-central-1::control/GCWIQEDCGVFE",
+    "id": "GCWIQEDCGVFE"
+  },
+  "SH.EFS.3": {
+    "arn": "arn:aws:controltower:ca-central-1::control/JJUVJECZICXY",
+    "id": "JJUVJECZICXY"
+  },
+  "SH.EFS.4": {
+    "arn": "arn:aws:controltower:ca-central-1::control/QSSJLANZTBWW",
+    "id": "QSSJLANZTBWW"
+  },
+  "SH.EKS.2": {
+    "arn": "arn:aws:controltower:ca-central-1::control/NXDAILOKJURD",
+    "id": "NXDAILOKJURD"
+  },
+  "SH.ELB.10": {
+    "arn": "arn:aws:controltower:ca-central-1::control/RVBQKRTSIQHB",
+    "id": "RVBQKRTSIQHB"
+  },
+  "SH.ELB.12": {
+    "arn": "arn:aws:controltower:ca-central-1::control/TUKTIBCDJAVB",
+    "id": "TUKTIBCDJAVB"
+  },
+  "SH.ELB.13": {
+    "arn": "arn:aws:controltower:ca-central-1::control/FXCYGAGEGPGU",
+    "id": "FXCYGAGEGPGU"
+  },
+  "SH.ELB.14": {
+    "arn": "arn:aws:controltower:ca-central-1::control/HABOKKLKHBXF",
+    "id": "HABOKKLKHBXF"
+  },
+  "SH.ELB.2": {
+    "arn": "arn:aws:controltower:ca-central-1::control/GWNPDCMTNYXF",
+    "id": "GWNPDCMTNYXF"
+  },
+  "SH.ELB.3": {
+    "arn": "arn:aws:controltower:ca-central-1::control/GVQODFJYLZWC",
+    "id": "GVQODFJYLZWC"
+  },
+  "SH.ELB.4": {
+    "arn": "arn:aws:controltower:ca-central-1::control/EPRDRSPZQGPS",
+    "id": "EPRDRSPZQGPS"
+  },
+  "SH.ELB.5": {
+    "arn": "arn:aws:controltower:ca-central-1::control/FBADZSAQTFEX",
+    "id": "FBADZSAQTFEX"
+  },
+  "SH.ELB.6": {
+    "arn": "arn:aws:controltower:ca-central-1::control/UBKSMZHRBUQV",
+    "id": "UBKSMZHRBUQV"
+  },
+  "SH.ELB.7": {
+    "arn": "arn:aws:controltower:ca-central-1::control/RRQTKFRGJHIU",
+    "id": "RRQTKFRGJHIU"
+  },
+  "SH.ELB.8": {
+    "arn": "arn:aws:controltower:ca-central-1::control/GFVYJMUPSGXT",
+    "id": "GFVYJMUPSGXT"
+  },
+  "SH.ELB.9": {
+    "arn": "arn:aws:controltower:ca-central-1::control/NIQNQIVTOBLT",
+    "id": "NIQNQIVTOBLT"
+  },
+  "SH.ELBv2.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/YGASWQGDRBGT",
+    "id": "YGASWQGDRBGT"
+  },
+  "SH.EMR.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/EPAGOHDKWZGV",
+    "id": "EPAGOHDKWZGV"
+  },
+  "SH.ES.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/POZXDXUYCPRU",
+    "id": "POZXDXUYCPRU"
+  },
+  "SH.ES.2": {
+    "arn": "arn:aws:controltower:ca-central-1::control/SZZLDHEGHCRE",
+    "id": "SZZLDHEGHCRE"
+  },
+  "SH.ES.3": {
+    "arn": "arn:aws:controltower:ca-central-1::control/XLMZTTAZIZFJ",
+    "id": "XLMZTTAZIZFJ"
+  },
+  "SH.ES.4": {
+    "arn": "arn:aws:controltower:ca-central-1::control/DHRRWEWMKFNT",
+    "id": "DHRRWEWMKFNT"
+  },
+  "SH.ES.5": {
+    "arn": "arn:aws:controltower:ca-central-1::control/FUEFZWKCJABK",
+    "id": "FUEFZWKCJABK"
+  },
+  "SH.ES.6": {
+    "arn": "arn:aws:controltower:ca-central-1::control/FAJDNSWEYJTJ",
+    "id": "FAJDNSWEYJTJ"
+  },
+  "SH.ES.7": {
+    "arn": "arn:aws:controltower:ca-central-1::control/RTHTIINVLDRG",
+    "id": "RTHTIINVLDRG"
+  },
+  "SH.ES.8": {
+    "arn": "arn:aws:controltower:ca-central-1::control/EJOTPAVNDFJH",
+    "id": "EJOTPAVNDFJH"
+  },
+  "SH.ElasticBeanstalk.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/BDAQDLACRNUJ",
+    "id": "BDAQDLACRNUJ"
+  },
+  "SH.ElasticBeanstalk.2": {
+    "arn": "arn:aws:controltower:ca-central-1::control/WIFJQEAWBYYY",
+    "id": "WIFJQEAWBYYY"
+  },
+  "SH.GuardDuty.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/MPEMCZUTKJSC",
+    "id": "MPEMCZUTKJSC"
+  },
+  "SH.IAM.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/UIZQWGPRMOAM",
+    "id": "UIZQWGPRMOAM"
+  },
+  "SH.IAM.2": {
+    "arn": "arn:aws:controltower:ca-central-1::control/BQESNVPCOBGD",
+    "id": "BQESNVPCOBGD"
+  },
+  "SH.IAM.21": {
+    "arn": "arn:aws:controltower:ca-central-1::control/PPLFAEVCJSZX",
+    "id": "PPLFAEVCJSZX"
+  },
+  "SH.IAM.3": {
+    "arn": "arn:aws:controltower:ca-central-1::control/ZBRPUSKMGALZ",
+    "id": "ZBRPUSKMGALZ"
+  },
+  "SH.IAM.4": {
+    "arn": "arn:aws:controltower:ca-central-1::control/LFHALIRSAOMG",
+    "id": "LFHALIRSAOMG"
+  },
+  "SH.IAM.5": {
+    "arn": "arn:aws:controltower:ca-central-1::control/NOOUAVOVBUEY",
+    "id": "NOOUAVOVBUEY"
+  },
+  "SH.IAM.6": {
+    "arn": "arn:aws:controltower:ca-central-1::control/RBIDFUAIDOZW",
+    "id": "RBIDFUAIDOZW"
+  },
+  "SH.IAM.7": {
+    "arn": "arn:aws:controltower:ca-central-1::control/ZUYARIGWZBSL",
+    "id": "ZUYARIGWZBSL"
+  },
+  "SH.IAM.8": {
+    "arn": "arn:aws:controltower:ca-central-1::control/SDKZNRQZVJYU",
+    "id": "SDKZNRQZVJYU"
+  },
+  "SH.KMS.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/VZYJNYATGYQB",
+    "id": "VZYJNYATGYQB"
+  },
+  "SH.KMS.2": {
+    "arn": "arn:aws:controltower:ca-central-1::control/IXRRCZUELMDU",
+    "id": "IXRRCZUELMDU"
+  },
+  "SH.KMS.3": {
+    "arn": "arn:aws:controltower:ca-central-1::control/QRKASNXFSCTZ",
+    "id": "QRKASNXFSCTZ"
+  },
+  "SH.Kinesis.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/XWJFEUSBZYWC",
+    "id": "XWJFEUSBZYWC"
+  },
+  "SH.Lambda.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/BOWRFNRKVWJH",
+    "id": "BOWRFNRKVWJH"
+  },
+  "SH.Lambda.2": {
+    "arn": "arn:aws:controltower:ca-central-1::control/FCQWRAUMZQGM",
+    "id": "FCQWRAUMZQGM"
+  },
+  "SH.Lambda.5": {
+    "arn": "arn:aws:controltower:ca-central-1::control/XFYQBLRUDYNB",
+    "id": "XFYQBLRUDYNB"
+  },
+  "SH.NetworkFirewall.3": {
+    "arn": "arn:aws:controltower:ca-central-1::control/OVLTEUUOAYRM",
+    "id": "OVLTEUUOAYRM"
+  },
+  "SH.NetworkFirewall.4": {
+    "arn": "arn:aws:controltower:ca-central-1::control/NDXZOSZBZAZP",
+    "id": "NDXZOSZBZAZP"
+  },
+  "SH.NetworkFirewall.5": {
+    "arn": "arn:aws:controltower:ca-central-1::control/UYDVGEXROLLF",
+    "id": "UYDVGEXROLLF"
+  },
+  "SH.NetworkFirewall.6": {
+    "arn": "arn:aws:controltower:ca-central-1::control/MKMOEILVVSHM",
+    "id": "MKMOEILVVSHM"
+  },
+  "SH.Opensearch.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/DHTDOXDDWKDT",
+    "id": "DHTDOXDDWKDT"
+  },
+  "SH.Opensearch.2": {
+    "arn": "arn:aws:controltower:ca-central-1::control/VHKUJNWUZHWF",
+    "id": "VHKUJNWUZHWF"
+  },
+  "SH.Opensearch.3": {
+    "arn": "arn:aws:controltower:ca-central-1::control/VEHXNORMXQFE",
+    "id": "VEHXNORMXQFE"
+  },
+  "SH.Opensearch.4": {
+    "arn": "arn:aws:controltower:ca-central-1::control/MTRETSLGNEME",
+    "id": "MTRETSLGNEME"
+  },
+  "SH.Opensearch.5": {
+    "arn": "arn:aws:controltower:ca-central-1::control/ZWUQUZVGRFGN",
+    "id": "ZWUQUZVGRFGN"
+  },
+  "SH.Opensearch.6": {
+    "arn": "arn:aws:controltower:ca-central-1::control/UFNJUYUNHPUO",
+    "id": "UFNJUYUNHPUO"
+  },
+  "SH.Opensearch.7": {
+    "arn": "arn:aws:controltower:ca-central-1::control/CDTQYPILPGYQ",
+    "id": "CDTQYPILPGYQ"
+  },
+  "SH.Opensearch.8": {
+    "arn": "arn:aws:controltower:ca-central-1::control/CLTBPMSNISNR",
+    "id": "CLTBPMSNISNR"
+  },
+  "SH.RDS.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/NZXCAQOXCCUB",
+    "id": "NZXCAQOXCCUB"
+  },
+  "SH.RDS.10": {
+    "arn": "arn:aws:controltower:ca-central-1::control/PRHACJRAZPNL",
+    "id": "PRHACJRAZPNL"
+  },
+  "SH.RDS.11": {
+    "arn": "arn:aws:controltower:ca-central-1::control/TPWBDXCLLFXK",
+    "id": "TPWBDXCLLFXK"
+  },
+  "SH.RDS.13": {
+    "arn": "arn:aws:controltower:ca-central-1::control/PTCFMAVPZJNJ",
+    "id": "PTCFMAVPZJNJ"
+  },
+  "SH.RDS.17": {
+    "arn": "arn:aws:controltower:ca-central-1::control/AUGOGJCNNLCH",
+    "id": "AUGOGJCNNLCH"
+  },
+  "SH.RDS.18": {
+    "arn": "arn:aws:controltower:ca-central-1::control/WGELDILYYVXL",
+    "id": "WGELDILYYVXL"
+  },
+  "SH.RDS.19": {
+    "arn": "arn:aws:controltower:ca-central-1::control/DUYBROXNVRZJ",
+    "id": "DUYBROXNVRZJ"
+  },
+  "SH.RDS.2": {
+    "arn": "arn:aws:controltower:ca-central-1::control/LVTHEOBWSHXI",
+    "id": "LVTHEOBWSHXI"
+  },
+  "SH.RDS.20": {
+    "arn": "arn:aws:controltower:ca-central-1::control/OODDUWOHHNMJ",
+    "id": "OODDUWOHHNMJ"
+  },
+  "SH.RDS.21": {
+    "arn": "arn:aws:controltower:ca-central-1::control/JUUCAVNVKIFZ",
+    "id": "JUUCAVNVKIFZ"
+  },
+  "SH.RDS.22": {
+    "arn": "arn:aws:controltower:ca-central-1::control/ZGGHJOYOXRWY",
+    "id": "ZGGHJOYOXRWY"
+  },
+  "SH.RDS.23": {
+    "arn": "arn:aws:controltower:ca-central-1::control/WSSFKIXFVIRY",
+    "id": "WSSFKIXFVIRY"
+  },
+  "SH.RDS.25": {
+    "arn": "arn:aws:controltower:ca-central-1::control/HKYZMPYFMAFO",
+    "id": "HKYZMPYFMAFO"
+  },
+  "SH.RDS.3": {
+    "arn": "arn:aws:controltower:ca-central-1::control/KAZMYJAUZYSY",
+    "id": "KAZMYJAUZYSY"
+  },
+  "SH.RDS.4": {
+    "arn": "arn:aws:controltower:ca-central-1::control/VXUOLNFZHRXA",
+    "id": "VXUOLNFZHRXA"
+  },
+  "SH.RDS.5": {
+    "arn": "arn:aws:controltower:ca-central-1::control/XMPOBIWVBCBI",
+    "id": "XMPOBIWVBCBI"
+  },
+  "SH.RDS.6": {
+    "arn": "arn:aws:controltower:ca-central-1::control/DKSRZCXJNFHQ",
+    "id": "DKSRZCXJNFHQ"
+  },
+  "SH.RDS.8": {
+    "arn": "arn:aws:controltower:ca-central-1::control/WFLIUEPSIAYX",
+    "id": "WFLIUEPSIAYX"
+  },
+  "SH.RDS.9": {
+    "arn": "arn:aws:controltower:ca-central-1::control/RYUXCWVBRCAD",
+    "id": "RYUXCWVBRCAD"
+  },
+  "SH.Redshift.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/RSFNTTQDNSXM",
+    "id": "RSFNTTQDNSXM"
+  },
+  "SH.Redshift.10": {
+    "arn": "arn:aws:controltower:ca-central-1::control/SFTASJFBQOZK",
+    "id": "SFTASJFBQOZK"
+  },
+  "SH.Redshift.2": {
+    "arn": "arn:aws:controltower:ca-central-1::control/YMGGCUBQWEZW",
+    "id": "YMGGCUBQWEZW"
+  },
+  "SH.Redshift.4": {
+    "arn": "arn:aws:controltower:ca-central-1::control/JWQMOSWEPUQN",
+    "id": "JWQMOSWEPUQN"
+  },
+  "SH.Redshift.6": {
+    "arn": "arn:aws:controltower:ca-central-1::control/MWBNTMMYOBQK",
+    "id": "MWBNTMMYOBQK"
+  },
+  "SH.Redshift.7": {
+    "arn": "arn:aws:controltower:ca-central-1::control/VZIZLXFWAEFL",
+    "id": "VZIZLXFWAEFL"
+  },
+  "SH.Redshift.8": {
+    "arn": "arn:aws:controltower:ca-central-1::control/OUMGXBPLINOD",
+    "id": "OUMGXBPLINOD"
+  },
+  "SH.Redshift.9": {
+    "arn": "arn:aws:controltower:ca-central-1::control/CSOGIJBMPVER",
+    "id": "CSOGIJBMPVER"
+  },
+  "SH.S3.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/ARAAXROCJLMK",
+    "id": "ARAAXROCJLMK"
+  },
+  "SH.S3.10": {
+    "arn": "arn:aws:controltower:ca-central-1::control/MVWRAOTEOGZF",
+    "id": "MVWRAOTEOGZF"
+  },
+  "SH.S3.11": {
+    "arn": "arn:aws:controltower:ca-central-1::control/ITNNRYBVJGNI",
+    "id": "ITNNRYBVJGNI"
+  },
+  "SH.S3.12": {
+    "arn": "arn:aws:controltower:ca-central-1::control/UNGOCLMLKNAH",
+    "id": "UNGOCLMLKNAH"
+  },
+  "SH.S3.13": {
+    "arn": "arn:aws:controltower:ca-central-1::control/KPNAKOZEARRB",
+    "id": "KPNAKOZEARRB"
+  },
+  "SH.S3.2": {
+    "arn": "arn:aws:controltower:ca-central-1::control/BPFIVHGTXOGG",
+    "id": "BPFIVHGTXOGG"
+  },
+  "SH.S3.3": {
+    "arn": "arn:aws:controltower:ca-central-1::control/AQQIXVCNLDYX",
+    "id": "AQQIXVCNLDYX"
+  },
+  "SH.S3.4": {
+    "arn": "arn:aws:controltower:ca-central-1::control/KQHOHKCWINNM",
+    "id": "KQHOHKCWINNM"
+  },
+  "SH.S3.5": {
+    "arn": "arn:aws:controltower:ca-central-1::control/RQKKRCVIIKYW",
+    "id": "RQKKRCVIIKYW"
+  },
+  "SH.S3.6": {
+    "arn": "arn:aws:controltower:ca-central-1::control/TSCSMHZBPAOD",
+    "id": "TSCSMHZBPAOD"
+  },
+  "SH.S3.8": {
+    "arn": "arn:aws:controltower:ca-central-1::control/RXZJMQEOLMGW",
+    "id": "RXZJMQEOLMGW"
+  },
+  "SH.S3.9": {
+    "arn": "arn:aws:controltower:ca-central-1::control/GFOFPVBQVUFV",
+    "id": "GFOFPVBQVUFV"
+  },
+  "SH.SNS.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/HUNUJVRXGYJH",
+    "id": "HUNUJVRXGYJH"
+  },
+  "SH.SNS.2": {
+    "arn": "arn:aws:controltower:ca-central-1::control/ZASOMECURBPO",
+    "id": "ZASOMECURBPO"
+  },
+  "SH.SQS.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/YNRXRVWROTER",
+    "id": "YNRXRVWROTER"
+  },
+  "SH.SSM.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/XOUNWPBZJNVB",
+    "id": "XOUNWPBZJNVB"
+  },
+  "SH.SSM.2": {
+    "arn": "arn:aws:controltower:ca-central-1::control/NMLXRBHLMGSL",
+    "id": "NMLXRBHLMGSL"
+  },
+  "SH.SSM.3": {
+    "arn": "arn:aws:controltower:ca-central-1::control/FVQFKOJUNLOY",
+    "id": "FVQFKOJUNLOY"
+  },
+  "SH.SSM.4": {
+    "arn": "arn:aws:controltower:ca-central-1::control/CRPLDMSGZVNX",
+    "id": "CRPLDMSGZVNX"
+  },
+  "SH.SageMaker.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/SQZAFTGIIXLN",
+    "id": "SQZAFTGIIXLN"
+  },
+  "SH.SageMaker.2": {
+    "arn": "arn:aws:controltower:ca-central-1::control/RAPZNYOHIVYB",
+    "id": "RAPZNYOHIVYB"
+  },
+  "SH.SageMaker.3": {
+    "arn": "arn:aws:controltower:ca-central-1::control/GBJUIOMQLVOT",
+    "id": "GBJUIOMQLVOT"
+  },
+  "SH.SecretsManager.1": {
+    "arn": "arn:aws:controltower:ca-central-1::control/ABZHCDTAXCTD",
+    "id": "ABZHCDTAXCTD"
+  },
+  "SH.SecretsManager.2": {
+    "arn": "arn:aws:controltower:ca-central-1::control/STQSZAQDRYTI",
+    "id": "STQSZAQDRYTI"
+  },
+  "SH.SecretsManager.3": {
+    "arn": "arn:aws:controltower:ca-central-1::control/ZKLBBEFBUMDR",
+    "id": "ZKLBBEFBUMDR"
+  },
+  "SH.SecretsManager.4": {
+    "arn": "arn:aws:controltower:ca-central-1::control/BNCSMILPESRZ",
+    "id": "BNCSMILPESRZ"
+  },
+  "SH.WAF.10": {
+    "arn": "arn:aws:controltower:ca-central-1::control/KZXBOOIWPJML",
+    "id": "KZXBOOIWPJML"
+  },
+  "SH.WAF.2": {
+    "arn": "arn:aws:controltower:ca-central-1::control/PGGMESVIZFFP",
+    "id": "PGGMESVIZFFP"
+  },
+  "SH.WAF.3": {
+    "arn": "arn:aws:controltower:ca-central-1::control/TEFNOEPILSHB",
+    "id": "TEFNOEPILSHB"
+  },
+  "SH.WAF.4": {
+    "arn": "arn:aws:controltower:ca-central-1::control/WQQNMFDARNQD",
+    "id": "WQQNMFDARNQD"
+  }
+}
