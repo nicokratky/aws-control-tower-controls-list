@@ -15,12 +15,10 @@ def usage():
 
 def get_control_metadata():
     response = requests.get(CONTROL_METADATA_LINK)
-
     return response.text
 
 
 def main(region):
-
     metadata = get_control_metadata()
 
     soup = BeautifulSoup(metadata, 'html.parser')
@@ -33,6 +31,7 @@ def main(region):
 
     for control in headings:
         control_name = control.string.strip()
+
         try:
             control_arn = control.find_next_sibling().find_all('td')[3].find(
                 string=re.compile(region)).parent.parent.find('code').string
