@@ -17,12 +17,12 @@ pip install -r requirements.txt
 ## Usage
 
 ```bash
-> python parser.py
+$ python parser.py
 Usage:
         python3 parser.py <REGION>
         e.g.: python3 parser.py eu-central-1
 
-> python parser.py eu-central-1
+$ python parser.py eu-central-1
 
 [...]
 "SH.ElasticBeanstalk.1": {
@@ -44,5 +44,5 @@ Usage:
 [...]
 
 # store output in a JSON file
-> python parser.py eu-central-1 > output/eu-central-1.json
+$ python parser.py eu-central-1 > output/eu-central-1.json
 ```
