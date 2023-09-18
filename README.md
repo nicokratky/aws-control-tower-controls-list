@@ -19,8 +19,8 @@ pip install -r requirements.txt
 ```bash
 $ python parser.py
 Usage:
-        python3 parser.py <REGION>
-        e.g.: python3 parser.py eu-central-1
+        python parser.py <REGION>
+        e.g.: python parser.py eu-central-1
 
 $ python parser.py eu-central-1
 
